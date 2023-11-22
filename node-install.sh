@@ -5,3 +5,6 @@ sudo node --version
 sudo npm --version
 sudo npm install -g @angular/cli
 sudo ng --version
+#sudo npm cache clean -f
+#sudo npm install -g n
+#sudo n stable
